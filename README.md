@@ -26,7 +26,7 @@ A voice-controlled assistant built using Python that can perform web automation,
 
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/Jarvis-Voice-Assistant.git
+   git clone https://github.com/titan0987/Jarvis-Voice-Assistant.git
 
 2. Install dependencies:
 

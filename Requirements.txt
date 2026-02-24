@@ -1,0 +1,13 @@
+Python version - 3.11.0
+
+Python Packages:-
+    speech_recognition
+    pyttsx3
+    requests
+    python-vlc
+    google-generativeai
+    pyaudio
+
+API KEYS:-
+    newapikey
+    geminiapikey

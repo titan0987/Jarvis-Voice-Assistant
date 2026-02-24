@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+venv/
+.env.local
+*.log
+e311
+API_KEY.py
+createVirtualenv.txt
+test.py

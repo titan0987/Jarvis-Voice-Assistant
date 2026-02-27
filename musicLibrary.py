@@ -10,5 +10,3 @@ music = {
     "love me like you do": "https://youtu.be/AJtDXIazrMo",
     "see you again": "https://youtu.be/RgKAFK5djSk"
 }
-
-# Your API key is: 5de97478b8f4458589d6541b57f4dcce
